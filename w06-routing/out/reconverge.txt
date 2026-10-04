@@ -1,0 +1,2 @@
+재수렴 감지: 2 초
+restore reconvergence: 6s
